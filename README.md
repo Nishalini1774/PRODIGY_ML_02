@@ -1,2 +1,4 @@
 # PRODIGY_ML_02
 Creation of a K-means clustering algorithm to group customers of a retail store based on their purchase history using the given dataset.
+
+The diverse range of consumer preferences poses a challenge for retailers to effectively tailor their marketing strategies. By customizing marketing approaches to suit the distinct needs and preferences of specific customer segments, formed by grouping individuals based on their past buying behaviors, retail establishments can expand their client base and boost sales. To uncover trends and similarities among customers, the project will analyze historical purchase data. Utilizing K-means clustering, customers will be categorized into segments with similar purchasing behaviors. Subsequently, these segments will be scrutinized to identify the traits and preferences unique to each group based on the available data.
